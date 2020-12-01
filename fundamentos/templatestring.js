@@ -11,3 +11,4 @@ console.log(`1 + 1 = ${1+1}`)
 
 const up = texto => texto.toUpperCase() // função 
 console.log(`Ei... ${up('cuidado')}!`) // chamando a função passando um parametro 
+
