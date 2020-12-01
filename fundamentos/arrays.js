@@ -22,4 +22,4 @@ console.log(valores)
 
 console.log(valores.pop()) // retira o ultimo elemento do array e retorna ele
 
-console.log(typeof valores) // em JS arrays são objetos 
+console.log(typeof valores) // em JS arrays são objetos.

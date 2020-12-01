@@ -11,4 +11,4 @@ console.log(0.1 + 0.7) // não da 0.8 pois a linguagem suporta numeros flutuante
 console.log((10.345).toString()) // deve-se colocar o número dentro de () para assim conseguir chamar uma função
 
 
-console.log('3' + 2) // neste caso não vai somar, e sim concatenar 
+console.log('3' + 2) // neste caso não vai somar, e sim concatenar
