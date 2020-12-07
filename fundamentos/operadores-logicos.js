@@ -12,7 +12,6 @@ function compras (trabalho1, trabalho2){
     return { comprarSorvete, comprarTv50, comprarTv32, manterSaudavel } // cria um objeto 
 }
 
-logical operators
 
 console.log(compras(true, true))
 console.log(compras(true, false))
